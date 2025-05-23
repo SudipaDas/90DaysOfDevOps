@@ -1,0 +1,8 @@
+# Week 4: Git and GitHub Challenge
+
+- **Git Basics:** `git init`, `git add`, `git commit`
+git init initialize git 
+git add to unstage to stage state
+git commit to commit the chnages
+
+
